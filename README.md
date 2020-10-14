@@ -70,8 +70,10 @@ module.exports = {
 
 使用
 
+```
 create-pages clean  清除产生的dist和temp目录
 
 create-pages build  打包并压缩项目资源文件
 
 create-pages develop  开发服务启动并产生temp目录
+```
